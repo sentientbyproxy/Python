@@ -1,4 +1,4 @@
-# A simple program designed to pull JSON headers from the web, written in Python 3.5.2.
+# A program designed to pull JSON headers from the web, written in Python 3.5.2.
 
 import requests
 import simplejson as json
