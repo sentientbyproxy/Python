@@ -1,4 +1,4 @@
-# A basic, executable RPG.
+# A basic, executable RPG, written in Python 3.5.2.
 
 import random
 
